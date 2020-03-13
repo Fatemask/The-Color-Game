@@ -1,0 +1,38 @@
+.square
+{
+    background-color: aqua;
+    margin: 10px;
+    padding: 50px; 
+    border-radius: 1rem;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: 0px 0px 0px;
+    margin-bottom: 0rem;
+    height: 150px;
+    padding-top: 50px;
+}
+
+.selected{
+    background-color: cornflowerblue;
+}
+
+#ans{
+    background-color: white;
+    text-align: center;
+}
+button:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.container{
+    margin: 0px;
+}
+
+#disp{
+    color: black;
+}
